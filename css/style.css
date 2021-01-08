@@ -1,0 +1,36 @@
+ body { font-size:12pt;
+  		background-image: url(../img/shared/background.jpg);
+  		background-attachment: fixed;
+  		background-size: cover;
+		font-family: Georgia, serif;
+		text-align: justify;
+		margin-left: 25px;
+		margin-right: 25px;
+		color: DarkTurquoise } 
+		
+  .container {
+		position: relative;
+		margin-left: 50px;
+		margin-right: 50px;
+		margin-top: 100px;
+		padding: 20px;
+		box-shadow: 0px 0px 20px 3px gray;
+		border: 1px black;
+		background-color: rgba(100, 100, 100, 0.7); }
+		
+ a {
+		color: Darkorange;
+		background-color: transparent;
+		text-decoration: underline;}
+	
+ h1 { 	font-size: 50px;
+		font-family: 'Brush Script MT', cursive;
+		text-align: center;
+		color: Turquoise } 
+
+ img {	
+		display: block;
+		margin-left: auto;
+		margin-right: auto; }
+
+ ul {	list-style-type: circle; }
